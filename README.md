@@ -1,5 +1,5 @@
 
-GoogleDocsClone
+## GoogleDocsClone
 
 ## Implementation
 
@@ -17,9 +17,9 @@ GoogleDocsClone
 
 - install dependencies using `npm i`
 - run app using `npm start`
-- Enjoy.
 
-#Image
+## Image
+
 ![image](https://github.com/anshika42/GooglrDocsClone/assets/90893402/ee30c310-bd4b-4cef-a2e6-edcfa00fe25f)
 
 
